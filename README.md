@@ -8,19 +8,14 @@ Program ini dibuat dengan menggunakan salah satu struktur data yaitu linked list
 Prgram ini menggunakan database mysql pada registrasi dan login.
 
 ### Struktur Project
-1. Menu utama
-    Menu utama ini berisi opsi yang dapat dipilih oleh user untuk kemudian diekseskusi oleh program sesuai dengan pilihan yang telah dipilih oleh user.
-2. Login admin
-    Login admin merupakan suatu proses untuk masuk ke dalam menu admin, yang dimana user akan dimintai untuk memasukkan username dan juga password yang telah ditentukan sebelumnya.
-3. Login pengunjung
-    Login pengunjung merupakan suatu proses untuk masuk ke dalam menu pengunjung, yang dimana user akan dimintai untuk memasukkan username dan juga password yang telah dibuat sebelumnya pada saat melakukan registrasi pengunjung. 
-4. Registrasi pengunjung
-    Registrasi pengunjung ini hanya dapat dilakukan oleh user yang belum memliki akun sebelumnya karena username dan juga password dibutuhkan sebagai pintu masuk ke dalam program. User yang melakukan registrasi akan otomatis memiliki role sebagai pengunjung, bukan admin.
-5. Menu admin
-    Menu admin ini berisi opsi yang dapat dipilih oleh admin seperti melihat, mencari, menambahkan, dan menghapus buku, juga dapat melihat dan menghapus anggota perpustakaan, melihat antrean perpustakaan dan melihat riwayat list peminjaman buku. Previlage yang dimiliki oleh admin tentu berbeda dengan yang dimiki oleh pengunjung. Opsi yang dapat dipilih oleh user tidak sebanyak dengan opsi yang dapat dipilih oleh admin.
-6. Menu pengunjung
-    Menu ini berisi opsi yang dapat dipilih oleh pengunjung seperti melihat, mencari, meminjam, dan mengembalikan buku, juga dapat menampilkan daftar bacaan.
+1. Menu utama : berisi opsi yang dapat dipilih oleh user untuk kemudian diekseskusi oleh program sesuai dengan pilihan yang telah dipilih oleh user.
+2. Login admin : merupakan suatu proses untuk masuk ke dalam menu admin, yang dimana user akan dimintai untuk memasukkan username dan juga password yang telah ditentukan sebelumnya.
+3. Login pengunjung : merupakan suatu proses untuk masuk ke dalam menu pengunjung, yang dimana user akan dimintai untuk memasukkan username dan juga password yang telah dibuat sebelumnya pada saat melakukan registrasi pengunjung. 
+4. Registrasi pengunjung : hanya dapat dilakukan oleh user yang belum memliki akun sebelumnya karena username dan juga password dibutuhkan sebagai pintu masuk ke dalam program. User yang melakukan registrasi akan otomatis memiliki role sebagai pengunjung, bukan admin.
+5. Menu admin : berisi opsi yang dapat dipilih oleh admin seperti melihat, mencari, menambahkan, dan menghapus buku, juga dapat melihat dan menghapus anggota perpustakaan, melihat antrean perpustakaan dan melihat riwayat list peminjaman buku. Previlage yang dimiliki oleh admin tentu berbeda dengan yang dimiki oleh pengunjung. Opsi yang dapat dipilih oleh user tidak sebanyak dengan opsi yang dapat dipilih oleh admin.
+6. Menu pengunjung : berisi opsi yang dapat dipilih oleh pengunjung seperti melihat, mencari, meminjam, dan mengembalikan buku, juga dapat menampilkan daftar bacaan.
     Pengunjung tidak dapat melakukan tata kelola data buku yang ada di perpustakaan karena hal ini hanya dapat dilakukan oleh admin.
+
 ### Fitur dan Fungsionalitas
 | Fitur | Fungsionalitas |
 | ------ | ------ |
