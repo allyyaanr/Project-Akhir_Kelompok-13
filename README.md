@@ -3,6 +3,7 @@
 ###### Kelompok 13
 ---
 ### Deskripsi Program
+Program ini dibuat dengan tujuan menawarkan kemudahan bagi pengguna untuk membuka akses seluas-luasnya terhadap informasi yang telah dipublikasikan. Selain itu program ini juga dapat memfasilitasi perkembangan secara sistematis dengan cara mengumpulkan, menyimpan, dan mengatur data atau informasi yang kemudian akan disajikan.
 Program ini dibuat dengan menggunakan salah satu struktur data yaitu linked list, menggunakan algoritma merge sort untuk melakukan sorting dan menggunakan jump search untuk melakukan searching.
 Prgram ini menggunakan database mysql pada registrasi dan login.
 
